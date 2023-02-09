@@ -7,7 +7,7 @@ Fullstack Web Developer
 You can call me Awan or Nanang as comfortable as you like. I am 22 years old and a Final Semester Informatics Engineering Student from Unisbank Semarang. I have experience in creating websites more than 1 year & completed more than 20 projects using modern technology. I specialize in building mobile responsive front-end UI applications that connect with API's and PHP/Express backend technologies.
 
 * 🌍  I'm based in Semarang
-* 🖥️  See my portfolio at [personal web](http://nanangsetiawaan.vercel.app)
+* 🖥️  See my portfolio at [personal web](http://nanangsetiawan.vercel.app)
 * ✉️  You can contact me at [nanangsetiawaan@yahoo.com](mailto:nanangsetiawaan@yahoo.com)
 
 ### Skills
